@@ -7,7 +7,7 @@ namespace InheritanceProject
     class Employee
     {
        
-        //properties of Employee Class
+  
       public String employeeid
         {
             get;
@@ -42,7 +42,7 @@ namespace InheritanceProject
             designation = Des;
             project = pro;
         }
-      //
+      
     }
 }
 
