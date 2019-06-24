@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InheritanceProject
 {
-    class Employee :Project
+    class Employee
     {
        
         //properties of Employee Class
@@ -27,6 +27,21 @@ namespace InheritanceProject
         }
 
         public List<String> Prj = new List<String>();
+        public Project project
+        {
+            get;set;
+        }
+        public Employee()
+        {
+
+        }
+        Employee(String Eid,String Ename,String Des,Project pro = null)
+        {
+            employeeid = Eid;
+            employeename = Ename;
+            designation = Des;
+            project = pro;
+        }
       
     }
 }
