@@ -22,7 +22,21 @@ namespace InheritanceProject
         }
         public List<String> Emp = new List<String>();
 
-      
+        public Employee Employee
+        {
+            get;set;
+        }
+              Project(String pid,String pname,Employee Emp=null)
+              {
+               projectid = pid;
+               projectname = pname;
+               Employee = Emp;
+             
+              }
+       public Project()
+        {
+
+        }
 
 
     }
