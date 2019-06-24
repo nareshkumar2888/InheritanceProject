@@ -1,0 +1,11 @@
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\bin\Debug\netcoreapp2.1\InheritanceProject.deps.json
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\bin\Debug\netcoreapp2.1\InheritanceProject.runtimeconfig.json
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\bin\Debug\netcoreapp2.1\InheritanceProject.runtimeconfig.dev.json
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\bin\Debug\netcoreapp2.1\InheritanceProject.dll
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\bin\Debug\netcoreapp2.1\InheritanceProject.pdb
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\obj\Debug\netcoreapp2.1\InheritanceProject.csprojAssemblyReference.cache
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\obj\Debug\netcoreapp2.1\InheritanceProject.csproj.CoreCompileInputs.cache
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\obj\Debug\netcoreapp2.1\InheritanceProject.AssemblyInfoInputs.cache
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\obj\Debug\netcoreapp2.1\InheritanceProject.AssemblyInfo.cs
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\obj\Debug\netcoreapp2.1\InheritanceProject.dll
+C:\Users\tts-06\source\repos\InheritanceProject\InheritanceProject\obj\Debug\netcoreapp2.1\InheritanceProject.pdb
